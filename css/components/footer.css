@@ -1,0 +1,32 @@
+ul {
+  padding-left: 0px;
+  padding-top: 50px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  padding: 20px;
+}
+
+li > a {
+  color: #1EDD88;
+  font-size: 40px;
+}
+
+li > a:hover {
+  color: #2d5928;
+  font-weight: 700;
+}
+
+.footer {
+  background-color: #2C2B2B;
+  text-align: center;
+}
+
+.footer p{
+  padding-bottom: 30px;
+  margin-bottom: 0px;
+  color: #65533D;
+
+}
